@@ -1,0 +1,19 @@
+# Sublime Text
+*.sublime-project
+*/mock/*
+
+# VScode
+.vscode/*
+
+# NodeJS
+node_modules/*
+# package-lock.json
+
+# test coverage
+coverage/*
+
+# UMI
+.umirc.local.js
+dist/*
+pages/**/.umi/*
+pages/**/.umi-production/*
